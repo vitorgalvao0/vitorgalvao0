@@ -25,7 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=symfony,nodejs,angular,mysql)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,insomnia)](https://skillicons.dev)
 
 
 
